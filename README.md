@@ -1,0 +1,1 @@
+# wp-salts-rotator
